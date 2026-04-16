@@ -4,5 +4,6 @@
     { "ToolName": "CODE SNIPPETS", "Url": "https://allduran.github.io/snippet-app/", "Category": "PRODUCTIVITY" },
     { "ToolName": "SONG LYRICS SEARCHER", "Url": "https://allduran.github.io/lyrics/", "Category": "MISC TOOLS" },
     { "ToolName": "TIME BLOCK APP", "Url": "https://allduran.github.io/time-block-app/", "Category": "PRODUCTIVITY" },
-    { "ToolName": "BLENDER TO UNITY CHECKLIST", "Url": "https://allduran.github.io/blender-unity-checklist/", "Category": "GAME DEV" }
+    { "ToolName": "BLENDER TO UNITY CHECKLIST", "Url": "https://allduran.github.io/blender-unity-checklist/", "Category": "GAME DEV" },
+    { "ToolName": "HEIGTHS CALCULATOR", "Url": "https://allduran.github.io/heights-calc/", "Category": "GAME DEV" }
 ]

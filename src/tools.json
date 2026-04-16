@@ -1,7 +1,8 @@
 [
-  { "ToolName": "TASK TIMER", "Url": "https://allduran.github.io/task-timer/", "Category": "PRODUCTIVITY" },
-  { "ToolName": "GAMEDEV DEVLOG", "Url": "https://allduran.github.io/alduran/", "Category": "SITES" },
-  { "ToolName": "CODE SNIPPETS", "Url": "https://allduran.github.io/snippet-app/", "Category": "PRODUCTIVITY" },
-  { "ToolName": "SONG LYRICS SEARCHER", "Url": "https://allduran.github.io/lyrics/", "Category": "MISC TOOLS" },
-  { "ToolName": "TIME BLOCK APP", "Url": "https://allduran.github.io/time-block-app/", "Category": "PRODUCTIVITY" }
+    { "ToolName": "GAMEDEV DEVLOG", "Url": "https://allduran.github.io/alduran/", "Category": "GAME DEV" },
+    { "ToolName": "TASK TIMER", "Url": "https://allduran.github.io/task-timer/", "Category": "PRODUCTIVITY" },
+    { "ToolName": "CODE SNIPPETS", "Url": "https://allduran.github.io/snippet-app/", "Category": "PRODUCTIVITY" },
+    { "ToolName": "SONG LYRICS SEARCHER", "Url": "https://allduran.github.io/lyrics/", "Category": "MISC TOOLS" },
+    { "ToolName": "TIME BLOCK APP", "Url": "https://allduran.github.io/time-block-app/", "Category": "PRODUCTIVITY" },
+    { "ToolName": "BLENDER TO UNITY CHECKLIST", "Url": "https://allduran.github.io/blender-unity-checklist/", "Category": "GAME DEV" }
 ]

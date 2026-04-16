@@ -1,18 +1,18 @@
 * { box-sizing: border-box; margin: 0; padding: 0; }
-body { font-family: sans-serif; background: #1a0a2e; color: #e8e4d8; }
+body { font-family: sans-serif; background: #1B1B2F; color: #EEEEEE; }
 
 .app { max-width: 1200px; margin: auto; padding: 2rem; }
 
-h1 { text-align: center; font-size: 2.5rem; margin-bottom: 1.5rem; color: #e8e4d8; }
+h1 { text-align: center; font-size: 2.5rem; margin-bottom: 1.5rem; color: #EEEEEE; }
 
 .filters { display: flex; gap: .5rem; flex-wrap: wrap; justify-content: center; margin-bottom: 2rem; }
 .filters button {
   padding: .45rem 1.2rem; border-radius: 999px;
-  border: 1px solid #4a4438; background: transparent;
-  color: #e8e4d8; cursor: pointer; font-size: .9rem;
+  border: 1px solid #1F4068; background: transparent;
+  color: #EEEEEE; cursor: pointer; font-size: .9rem;
 }
-.filters button.active { background: #ff7700; border-color: #ff7700; color: #1a0a2e; font-weight: 600; }
-.filters button:hover:not(.active) { border-color: #ff7700; color: #ff7700; }
+.filters button.active { background: #E43F5A; border-color: #E43F5A; color: #1a0a2e; font-weight: 600; }
+.filters button:hover:not(.active) { border-color: #E43F5A; color: #E43F5A; }
 
 .grid {
   display: grid;
@@ -24,14 +24,14 @@ h1 { text-align: center; font-size: 2.5rem; margin-bottom: 1.5rem; color: #e8e4d
 @media (max-width: 1000px) and (min-width: 701px) { .grid { grid-template-columns: repeat(2, 1fr); } }
 
 .card {
-  background: #2d1f3d;
-  border: 1px solid #4a4438;
+  background: #1F4068;
+  border: 1px solid #1F4068;
   border-radius: 12px; padding: 1.5rem;
   text-decoration: none; color: inherit;
   transition: transform .15s, border-color .15s;
   display: flex; flex-direction: column; gap: .4rem;
 }
-.card:hover { transform: translateY(-4px); border-color: #ff7700; }
+.card:hover { transform: translateY(-4px); border-color: #E43F5A; }
 
-.category { font-size: .7rem; color: #ff7700; text-transform: uppercase; letter-spacing: .08em; }
-.card h2 { font-size: 1rem; color: #e8e4d8; }
+.category { font-size: .7rem; color: #E43F5A; text-transform: uppercase; letter-spacing: .08em; }
+.card h2 { font-size: 1rem; color: #EEEEEE; }
